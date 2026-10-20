@@ -2,7 +2,7 @@
 
 Integrated Technical Concept Report — Cooperative Trajectory Sharing, Conflict Prediction, and Advisory-Layer Engineering.
 
-[📄 Download the ANIRBAN-1 Technical Concept Report (PDF)](docs/ANIRBAN-1-Integrated-Technical-Concept-Report.pdf)
+[📄 Download the ANIRBAN-1 Technical Concept Report (PDF)](ANIRBAN-1-Integrated-Technical-Concept-Report.pdf)
 
 **Contributors:** Abu Kayes Huda, Jaidul Islam Alvi, MD Sakib Hasan
 
