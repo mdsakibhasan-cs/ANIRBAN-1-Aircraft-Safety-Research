@@ -1,8 +1,8 @@
 # ANIRBAN-1: IoT Mesh for Autonomous Aircraft Safety
 
-## Integrated Technical Concept Report
+Integrated Technical Concept Report — Cooperative Trajectory Sharing, Conflict Prediction, and Advisory-Layer Engineering.
 
-**Cooperative Trajectory Sharing, Conflict Prediction, and Advisory-Layer Engineering**
+[📄 Download the ANIRBAN-1 Technical Concept Report (PDF)](docs/ANIRBAN-1-Integrated-Technical-Concept-Report.pdf)
 
 **Contributors:** Abu Kayes Huda, Jaidul Islam Alvi, MD Sakib Hasan
 
